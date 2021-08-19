@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Certifications
+#### Amazon Web Services Cloud Practitioner
+[![Amazon Web Services Cloud Practitioner](https://img.youtube.com/vi/j0BDHmA26iI/0.jpg)](https://www.credly.com/badges/8a315097-b84a-40d6-8b8a-6b96816cf045/public_url)
 
 <!--
 **m-e-w/m-e-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
