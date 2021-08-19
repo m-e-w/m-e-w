@@ -1,6 +1,5 @@
 ### Hi there 👋
-### Certifications
-#### Amazon Web Services Cloud Practitioner
+### Badges
 [![Amazon Web Services Cloud Practitioner](./doc/images/badges/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/8a315097-b84a-40d6-8b8a-6b96816cf045/public_url)
 
 <!--
