@@ -1,5 +1,9 @@
-# Badges
-[![Amazon Web Services Cloud Practitioner](./doc/images/badges/aws-certified-cloud-practitioner_102x102.png)](https://www.credly.com/badges/8a315097-b84a-40d6-8b8a-6b96816cf045/public_url)[![Data Science Orientation](./doc/images/badges/data-science-orientation_102x102.png)](https://www.credly.com/badges/ef0d982b-6ea4-4ef1-bfb4-92e39cebccd5/public_url)
+# Certifications
+## AWS
+[![Amazon Web Services Cloud Practitioner](./doc/images/badges/aws-certified-cloud-practitioner_102x102.png)](https://www.credly.com/badges/8a315097-b84a-40d6-8b8a-6b96816cf045/public_url)
+# Courses
+## IBM
+[![Data Science Orientation](./doc/images/badges/data-science-orientation_102x102.png)](https://www.credly.com/badges/ef0d982b-6ea4-4ef1-bfb4-92e39cebccd5/public_url)
 <!--
 Hi there 👋
 **m-e-w/m-e-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
