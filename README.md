@@ -1,6 +1,6 @@
 # Projects
 🔭 I’m currently working on ...
-- [steam_bi](https://github.com/m-e-w/steam_bi) - Visualize Steam Data in PowerBI using Python]
+- [steam_bi](https://github.com/m-e-w/steam_bi) - Visualize Steam Data in PowerBI using Python
 - ![Screenshot](https://raw.githubusercontent.com/m-e-w/steam_bi/main/media/screenshots/Capture_04.PNG)
 
 # Skills
