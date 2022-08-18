@@ -8,6 +8,7 @@
 - Python
 - SQL
 - ~~PowerBI~~ [Apache Superset](https://superset.apache.org/)
+- [MySQL](https://www.mysql.com/)
 
 # Certifications
 ## AWS
