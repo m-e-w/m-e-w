@@ -7,7 +7,7 @@
 🌱 I’m currently learning ...
 - Python
 - SQL
-- PowerBI
+- ~~PowerBI~~ [Apache Superset](https://superset.apache.org/)
 
 # Certifications
 ## AWS
