@@ -4,8 +4,6 @@
 ## [steam_bi](https://github.com/m-e-w/steam_bi)  
 Fetch and feed data available from Steam's API to industry leading data visualization tools like Apache Superset and Microsoft Powerbi
 
-![Screenshot](https://raw.githubusercontent.com/m-e-w/steam_bi/main/media/screenshots/Capture_04.PNG)
-
 🌱 Project Components ...
 - Python
 - SQL
@@ -13,6 +11,8 @@ Fetch and feed data available from Steam's API to industry leading data visualiz
 - [Apache Superset](https://superset.apache.org/)
 - MySQL
 - Docker
+
+![Screenshot](https://raw.githubusercontent.com/m-e-w/steam_bi/main/media/screenshots/Capture_04.PNG)
 
 # Certifications
 ## AWS
