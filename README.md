@@ -6,7 +6,7 @@ Fetch and feed data available from Steam's API to industry leading data visualiz
 
 🌱 **Project Components**
 - Python / SQL
-- Docker (MySQL + [Superset](https://superset.apache.org/)
+- Docker (MySQL + [Superset](https://superset.apache.org/))
 - [PowerBI](https://powerbi.microsoft.com/en-us/)
 
 ![Screenshot](https://raw.githubusercontent.com/m-e-w/steam_bi/main/media/screenshots/Capture_04.PNG)
