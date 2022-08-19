@@ -1,6 +1,6 @@
 🔭 **I’m currently working on ... **  
-[steam_bi](https://github.com/m-e-w/steam_bi)
-- Fetch and feed data available from Steam's API to industry leading data visualization tools like Apache Superset and Microsoft Power BI
+### [steam_bi](https://github.com/m-e-w/steam_bi)  
+Fetch and feed data available from Steam's API to industry leading data visualization tools like Apache Superset and Microsoft Power BI
 
 🌱 **Project Components**
 - Python / SQL
